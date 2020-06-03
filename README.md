@@ -16,7 +16,7 @@ The app carries out the following:
 * is able to get a unique list of modes of transport
 
 # Run Tests
-To run the tests first install node modules:
+To run the tests first install the node modules:
 ```JavaScript
 npm install
 ```
